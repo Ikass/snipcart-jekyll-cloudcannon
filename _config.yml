@@ -1,13 +1,13 @@
 # ----
 # Site
 
-title: Fur
+title: Test Store
 url: "http://turquoise-rook.cloudvent.net/"
 baseurl:
 google_analytics_key:
 google_maps_javascript_api_key:
-snipcart_key: "NWNjOWZhYjctYmE1ZS00MDM3LThkNjUtZmE5M2NiMTU1NzAwNjM2MjYzNTE1MzM5ODg1ODkw"
-snipcart_currency: "usd"
+snipcart_key: "ZGFlNGI0MTEtZTdlMS00NjdiLWEyYTEtOWUzMTQxOTlkYWE2NjM4MDY1MjE5ODgwNTEwOTA5"
+snipcart_currency: "eur"
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
@@ -18,9 +18,9 @@ author:
   twitter: fur # twitter username without the @ symbol
   phone: "+1 23456789"
 social:
-  name: Fur Template
+  name: Snipcart Ecommerce Template
   links:
-    - https://github.com/CloudCannon/fur-jekyll-template
+    - https://github.com/Ikass/snipcart-jekyll-cloudcannon
 
 # -----
 # Build
